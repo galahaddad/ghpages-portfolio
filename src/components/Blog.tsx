@@ -22,7 +22,7 @@ const Blog = () => {
         >
           {/* Replace YOUR_SUBSTACK_NAME with your actual Substack name */}
           <iframe
-            src="https://YOUR_SUBSTACK_NAME.substack.com/embed"
+            src="https://galahaddad.substack.com/embed"
             className="w-full h-[800px] bg-black/50 border border-[var(--border)] rounded-lg"
             frameBorder="0"
             scrolling="no"
